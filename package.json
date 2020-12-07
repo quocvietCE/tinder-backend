@@ -1,0 +1,19 @@
+{
+  "name": "tinder-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quocvietCE/tinder-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quocvietCE/tinder-backend/issues"
+  },
+  "homepage": "https://github.com/quocvietCE/tinder-backend#readme"
+}
